@@ -1,2 +1,3 @@
 suwmlee/ikaros:latest
 metatube/metatube-server:latest
+linuxserver/emby:latest
